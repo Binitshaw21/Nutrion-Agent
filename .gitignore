@@ -1,0 +1,32 @@
+﻿# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.Python
+*.egg-info/
+dist/
+build/
+
+# Env / secrets
+.env
+*.env
+
+# Bob IDE
+.bob/
+
+# VS Code
+.vscode/
+
+# watsonx Orchestrate scaffolding
+agents/
+connections/
+knowledge-bases/
+models/
+toolkits/
+workspace_config.yaml
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
